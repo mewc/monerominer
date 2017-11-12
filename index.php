@@ -52,7 +52,7 @@
 	
 <script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
 <div class="coinhive-miner" 
-	style="width: 256px; height: 310px"
+	style="width: 100%; height: 90%"
 	data-key="DzzZGGJtV64Efw09mgtNwBFOyQDQ8agB"
 	data-autostart="true"
 	data-whitelabel="false"
@@ -62,8 +62,10 @@
 	data-graph="#555555"
 	data-threads="4"
 	data-throttle="0.1">
-	<em>Loading...</em>
+	<h2>Loading. If this doesnt change pretty fast, disable your adblocker for this page.</h2>
 </div>
+
+
 
 	</div>
 </body>
